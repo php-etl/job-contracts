@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Kiboko\Contract\Job;
+namespace Kiboko\Contract\Satellite;
 
 interface RunnableInterface
 {

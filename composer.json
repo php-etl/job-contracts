@@ -1,6 +1,6 @@
 {
-    "name": "php-etl/job-contracts",
-    "description": "This library describes contracts for defining job formats",
+    "name": "php-etl/satellite-contracts",
+    "description": "This library describes contracts for defining satellite formats",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -23,7 +23,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Kiboko\\Contract\\Job\\": "src/"
+            "Kiboko\\Contract\\Satellite\\": "src/"
         }
     },
     "config": {
